@@ -1,0 +1,143 @@
+D:/MIPS/Mips_Project/Mux2_1_32.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/Mux2_1_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mux2_1_32
+-- Compiling architecture dataflow of Mux2_1_32
+
+} {} {}} D:/MIPS/Mips_Project/MIPS.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/MIPS.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mips
+-- Compiling architecture beh of mips
+
+} {} {}} D:/MIPS/Mips_Project/SignExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/SignExtend.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sign_extend
+-- Compiling architecture beh of sign_extend
+
+} {} {}} D:/MIPS/Mips_Project/InstructionMemory.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/InstructionMemory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity instruction_memory
+-- Compiling architecture behavioral of instruction_memory
+** Warning: D:/MIPS/Mips_Project/InstructionMemory.vhd(45): (vcom-1013) Initial value of "k" depends on value of signal "read_address".
+
+
+} {} {}} D:/MIPS/Mips_Project/PC.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/PC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity pc
+-- Compiling architecture beh of pc
+
+} {} {}} D:/MIPS/Mips_Project/ALUcontrol.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/ALUcontrol.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu_control
+-- Compiling architecture beh of alu_control
+
+} {} {}} D:/MIPS/Mips_Project/jal.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/jal.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity jalfunction
+-- Compiling architecture beh of jalfunction
+
+} {} {}} D:/MIPS/Mips_Project/Mux2_1_5.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/Mux2_1_5.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mux2_1_5
+-- Compiling architecture dataflow of Mux2_1_5
+
+} {} {}} D:/MIPS/Mips_Project/Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/Memory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory
+-- Compiling architecture behavioral of memory
+
+} {} {}} D:/MIPS/Mips_Project/ControlUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/ControlUnit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity control
+-- Compiling architecture beh of control
+
+} {} {}} D:/MIPS/Mips_Project/Mux3_1_32.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/Mux3_1_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mux3_1_32
+-- Compiling architecture dataflow of Mux3_1_32
+
+} {} {}} D:/MIPS/Mips_Project/Shift_register.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/Shift_register.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shifter
+-- Compiling architecture dataflow of shifter
+
+} {} {}} D:/MIPS/Mips_Project/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/ALU.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture dataflow of ALU
+
+} {} {}} D:/MIPS/Mips_Project/FullAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/FullAdder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity adder
+-- Compiling architecture beh of adder
+
+} {} {}} D:/MIPS/Mips_Project/register_file.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/MIPS/Mips_Project/register_file.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture beh of registers
+
+} {} {}}

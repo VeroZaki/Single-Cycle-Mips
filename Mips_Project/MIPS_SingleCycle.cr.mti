@@ -1,0 +1,123 @@
+{E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/MIPS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/MIPS.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mips
+-- Compiling architecture beh of mips
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ControlUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ControlUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity control
+-- Compiling architecture beh of control
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/SignExtend.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/SignExtend.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sign_extend
+-- Compiling architecture beh of sign_extend
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu
+-- Compiling architecture beh of alu
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/PC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/PC.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity pc
+-- Compiling architecture beh of pc
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/FullAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/FullAdder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity adder
+-- Compiling architecture beh of adder
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALUcontrol.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALUcontrol.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu_control
+-- Compiling architecture beh of alu_control
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/register_file.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/register_file.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture beh of registers
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Mux2_1_32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Mux2_1_32.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mux2_1_32
+-- Compiling architecture dataflow of Mux2_1_32
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Mux2_1_5.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Mux2_1_5.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mux2_1_5
+-- Compiling architecture dataflow of Mux2_1_5
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Memory.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory
+-- Compiling architecture behavioral of memory
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shifter
+-- Compiling architecture dataflow of shifter
+
+} {} {}} {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/InstructionMemory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/InstructionMemory.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity instruction_memory
+-- Compiling architecture behavioral of instruction_memory
+
+} {} {}}
