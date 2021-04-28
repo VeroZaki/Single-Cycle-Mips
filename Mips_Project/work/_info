@@ -1,0 +1,1449 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Examples projects
+Eadder
+Z0 w1557845607
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dD:/MIPS/Mips_Project
+Z6 8D:/MIPS/Mips_Project/FullAdder.vhd
+Z7 FD:/MIPS/Mips_Project/FullAdder.vhd
+l0
+L6
+ViU?9^91ez197XPzoi2G?B1
+!s100 7@k_OeFc4EJ7]kUW0XM<>0
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1557937648
+!i10b 1
+Z10 !s108 1557937647.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/FullAdder.vhd|
+Z12 !s107 D:/MIPS/Mips_Project/FullAdder.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 iU?9^91ez197XPzoi2G?B1
+l14
+L13
+VCjC1I^_5cfTI<`9Oz`nPj3
+!s100 5LhcG7L>HHd4]`f^ofHiV2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu
+Z15 w1557794611
+Z16 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z17 8D:/MIPS/Mips_Project/ALU.vhd
+Z18 FD:/MIPS/Mips_Project/ALU.vhd
+l0
+L5
+VV3491^^eB4S2>Ban:ieXG1
+!s100 mL_LTd>93k8Wo=1d9?oK70
+R8
+32
+Z19 !s110 1557937609
+!i10b 1
+Z20 !s108 1557937609.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/ALU.vhd|
+Z22 !s107 D:/MIPS/Mips_Project/ALU.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 3 alu 0 22 V3491^^eB4S2>Ban:ieXG1
+l26
+L15
+VjUA:Fon:5j@Vdaf8`EA`e2
+!s100 >lGg9jDocR<E?g3:NLG5h1
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 O[:Yl:4=_nzCN2n4h`GY80
+l23
+L15
+V=k1foNTze`Qd3alAEj9353
+!s100 AbCE_OniM>OGeBTRM?C4T1
+R8
+32
+!s110 1557767711
+!i10b 1
+!s108 1557767711.000000
+R21
+R22
+!i113 1
+R13
+R14
+w1526787799
+Ealu_control
+Z23 w1557855283
+R16
+R3
+R4
+R5
+Z24 8D:/MIPS/Mips_Project/ALUcontrol.vhd
+Z25 FD:/MIPS/Mips_Project/ALUcontrol.vhd
+l0
+L5
+VH9UdPbWFIQiLi_LEN9J931
+!s100 ?:]AblMbVI?Ci?H>eQUbh2
+R8
+32
+Z26 !s110 1557937612
+!i10b 1
+Z27 !s108 1557937612.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/ALUcontrol.vhd|
+Z29 !s107 D:/MIPS/Mips_Project/ALUcontrol.vhd|
+!i113 1
+R13
+R14
+Abeh
+R16
+R3
+R4
+DEx4 work 11 alu_control 0 22 H9UdPbWFIQiLi_LEN9J931
+l23
+L13
+V8Hd[VOE1g44;=;KXi:VA83
+!s100 Z1N?h8f>_jTk[DHPHTQ`n3
+R8
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R13
+R14
+Ealu_vhdl
+Z30 w1526665207
+R2
+Z31 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R3
+R4
+Z32 dE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project
+Z33 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALU.vhd
+Z34 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALU.vhd
+l0
+L5
+VNhfi8LF`:IaQgIeZ1JfW93
+!s100 B983=S4Kc[SHR<A=9NBG73
+R8
+32
+Z35 !s110 1526665209
+!i10b 1
+Z36 !s108 1526665209.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALU.vhd|
+Z38 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALU.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R31
+R3
+R4
+DEx4 work 8 alu_vhdl 0 22 Nhfi8LF`:IaQgIeZ1JfW93
+l16
+L14
+VcjeYhzZ<dfL4jKWaA^igd0
+!s100 37DC0dNK0>PYiWH8f`lCY1
+R8
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R13
+R14
+Ealucontrol
+Z39 w1526736264
+R16
+R3
+R4
+R32
+Z40 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALUcontrol.vhd
+Z41 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALUcontrol.vhd
+l0
+L6
+VA7jXFU0=14cfmBR;>kL[32
+!s100 S`A?AMVKPQR0bBll]gMeF0
+R8
+32
+Z42 !s110 1526736277
+!i10b 1
+Z43 !s108 1526736277.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALUcontrol.vhd|
+Z45 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ALUcontrol.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 10 alucontrol 0 22 A7jXFU0=14cfmBR;>kL[32
+l22
+L14
+Vg[R8kCc<M2lUK>`fS:aIf0
+!s100 0TPT5^[o[_kd5Fe8lKmD=1
+R8
+32
+R42
+!i10b 1
+R43
+R44
+R45
+!i113 1
+R13
+R14
+Ecomparator
+Z46 w1526662295
+R3
+R4
+R32
+Z47 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Comparator.vhd
+Z48 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Comparator.vhd
+l0
+L4
+VIK<jYQhNo0V@ZS@oPZbKZ3
+!s100 FAfT62eLnPIn8N1iI=3;b0
+R8
+32
+Z49 !s110 1526664240
+!i10b 1
+Z50 !s108 1526664239.000000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Comparator.vhd|
+Z52 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Comparator.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R3
+R4
+DEx4 work 10 comparator 0 22 IK<jYQhNo0V@ZS@oPZbKZ3
+l10
+L9
+ViP=il[1EDGkX9iR1GlQaZ0
+!s100 L7^`B@YSc6aE:@0<oXI9<3
+R8
+32
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 1
+R13
+R14
+Econtrol
+Z53 w1557862925
+R16
+R3
+R4
+R5
+Z54 8D:/MIPS/Mips_Project/ControlUnit.vhd
+Z55 FD:/MIPS/Mips_Project/ControlUnit.vhd
+l0
+L5
+V]dgjzg_nb_>oF6AP=2Ubk1
+!s100 gIMh_OC5^j6BS1GHook7_1
+R8
+32
+Z56 !s110 1557937632
+!i10b 1
+Z57 !s108 1557937632.000000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/ControlUnit.vhd|
+Z59 !s107 D:/MIPS/Mips_Project/ControlUnit.vhd|
+!i113 1
+R13
+R14
+Abeh
+R16
+R3
+R4
+DEx4 work 7 control 0 22 ]dgjzg_nb_>oF6AP=2Ubk1
+l16
+L15
+VM8do28eII=<R_mYL6_GBV0
+!s100 okoFgdj@^cMD5dm8Q94CN3
+R8
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 1
+R13
+R14
+Econtrol_unit_vhdl
+w1526687499
+R3
+R4
+R32
+Z60 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ControlUnit.vhd
+Z61 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ControlUnit.vhd
+l0
+L4
+V<?RomZlY?2B1KLQOYWGkO0
+!s100 XQDN<<lX>?T`Pa0nlH7k81
+R8
+32
+!s110 1526687502
+!i10b 1
+!s108 1526687502.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ControlUnit.vhd|
+Z63 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/ControlUnit.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 17 control_unit_vhdl 0 22 POH_5VZzcfEYJ[?YHk]HR2
+l15
+L13
+V9L7Mec5N;U_c0>bKdHWMY1
+!s100 GZUS2Z62c[ai5e[;PhLVn3
+R8
+32
+!s110 1526670647
+!i10b 1
+!s108 1526670647.000000
+R62
+R63
+!i113 1
+R13
+R14
+w1526670643
+Econtrolunit
+Z64 w1526777631
+R3
+R4
+R32
+R60
+R61
+l0
+L4
+V`PKD7?W3ZMQ6>Uo`l71:M2
+!s100 @h4jhO2Q;chH`]3W=ko;;3
+R8
+32
+Z65 !s110 1526777867
+!i10b 1
+Z66 !s108 1526777867.000000
+R62
+R63
+!i113 1
+R13
+R14
+Adataflow
+R3
+R4
+DEx4 work 11 controlunit 0 22 `PKD7?W3ZMQ6>Uo`l71:M2
+l12
+L11
+VT?90g=3ncTMP^0dG2=mDD0
+!s100 8dh8Bg`Kb?>JPBN3fdfbf2
+R8
+32
+R65
+!i10b 1
+R66
+R62
+R63
+!i113 1
+R13
+R14
+Efulladder
+Z67 w1526680923
+R16
+R3
+R4
+R32
+Z68 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/FullAdder.vhd
+Z69 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/FullAdder.vhd
+l0
+L5
+VWFg0J1N=h3c54e4aM5F@10
+!s100 b;g<3TQ3`CJhag9mY=Mcl1
+R8
+32
+Z70 !s110 1526735242
+!i10b 1
+Z71 !s108 1526735242.000000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/FullAdder.vhd|
+Z73 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/FullAdder.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 9 fulladder 0 22 WFg0J1N=h3c54e4aM5F@10
+l11
+L10
+VRbj4cd25QnSM[bE0Ck[1O0
+!s100 RY`1^9bH69ENn@:cC];2a0
+R8
+32
+R70
+!i10b 1
+R71
+R72
+R73
+!i113 1
+R13
+R14
+Einstruction_memory
+Z74 w1557928126
+R16
+R3
+R4
+R5
+Z75 8D:/MIPS/Mips_Project/InstructionMemory.vhd
+Z76 FD:/MIPS/Mips_Project/InstructionMemory.vhd
+l0
+L21
+VARD8@;AOJgEZQ>@4CPGE22
+!s100 gY:21]LM^>U15i?PLNjdT0
+R8
+32
+R9
+!i10b 1
+Z77 !s108 1557937648.000000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/InstructionMemory.vhd|
+Z79 !s107 D:/MIPS/Mips_Project/InstructionMemory.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R16
+R3
+R4
+DEx4 work 18 instruction_memory 0 22 ARD8@;AOJgEZQ>@4CPGE22
+l36
+L29
+VTkGS4?6B5BOz7fOoDZ0Ud0
+!s100 ;9=4l?jj`d_bhAn^PYAl10
+R8
+32
+R9
+!i10b 1
+R77
+R78
+R79
+!i113 1
+R13
+R14
+Einstructionmemory
+Z80 w1526731730
+R16
+R3
+R4
+R32
+Z81 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/InstructionMemory.vhd
+Z82 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/InstructionMemory.vhd
+l0
+L7
+VL2JQJTkLLoYcO?hHC63He3
+!s100 bHh::KE2YD1]OKn:iCiE;2
+R8
+32
+Z83 !s110 1526735244
+!i10b 1
+Z84 !s108 1526735244.000000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/InstructionMemory.vhd|
+Z86 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/InstructionMemory.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 17 instructionmemory 0 22 L2JQJTkLLoYcO?hHC63He3
+l53
+L15
+V<K@eF148UHba9L9QT1X7l0
+!s100 U:U1cN]06`;glnTj1n7bD2
+R8
+32
+R83
+!i10b 1
+R84
+R85
+R86
+!i113 1
+R13
+R14
+Ainstructionmemory_1
+R16
+R3
+R4
+DEx4 work 17 instructionmemory 0 22 8II@DVJNFh<QbW0B1a9792
+l21
+L11
+VBY3HBeDB:;KIEd>28^[LJ2
+!s100 iJj1<M>S`8SIUDVOjFL3V2
+R8
+32
+!s110 1526668725
+!i10b 1
+!s108 1526668725.000000
+R85
+R86
+!i113 1
+R13
+R14
+w1526668720
+Ejalfunction
+Z87 w1557847443
+R1
+R2
+R3
+R4
+R5
+Z88 8D:/MIPS/Mips_Project/jal.vhd
+Z89 FD:/MIPS/Mips_Project/jal.vhd
+l0
+L6
+VNlng7^9Bn7UHlG]:zUKbF2
+!s100 W3W2<_2V`7N5O@0O7fZLT0
+R8
+32
+Z90 !s110 1557937653
+!i10b 1
+Z91 !s108 1557937652.000000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/jal.vhd|
+Z93 !s107 D:/MIPS/Mips_Project/jal.vhd|
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+Z94 DEx4 work 11 jalfunction 0 22 Nlng7^9Bn7UHlG]:zUKbF2
+l11
+L10
+Z95 VhP^k16z<]5C`cce5UEIeO1
+Z96 !s100 ielnh6]mg^@KCnTS=^j713
+R8
+32
+R90
+!i10b 1
+R91
+R92
+R93
+!i113 1
+R13
+R14
+Emain
+Z97 w1526779953
+R1
+R2
+R3
+R4
+R32
+Z98 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/MIPS.vhd
+Z99 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/MIPS.vhd
+l0
+L6
+V6_cSz4G8JMUk4?D7e_:lU0
+!s100 9Oc2>QnMXOXfF27ikPzQZ1
+R8
+32
+Z100 !s110 1526780000
+!i10b 1
+Z101 !s108 1526780000.000000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/MIPS.vhd|
+Z103 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/MIPS.vhd|
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 4 main 0 22 6_cSz4G8JMUk4?D7e_:lU0
+l118
+L12
+VliLM`QiT;QeNgO?i>S94U1
+!s100 6EIbQ5We[ShfNSHM^FK@N0
+R8
+32
+R100
+!i10b 1
+R101
+R102
+R103
+!i113 1
+R13
+R14
+Ememory
+Z104 w1557927039
+R1
+R2
+R3
+R4
+R5
+Z105 8D:/MIPS/Mips_Project/Memory.vhd
+Z106 FD:/MIPS/Mips_Project/Memory.vhd
+l0
+L5
+V:<E6j6VBBQ1HU70]A0o7I3
+!s100 lMibmSEkhb9B8geAg[0`Z3
+R8
+32
+Z107 !s110 1557937649
+!i10b 1
+Z108 !s108 1557937649.000000
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/Memory.vhd|
+Z110 !s107 D:/MIPS/Mips_Project/Memory.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 6 memory 0 22 :<E6j6VBBQ1HU70]A0o7I3
+l20
+L14
+VjVLT^mdPBiz4HRc@9BzC00
+!s100 6g4Y04_OGQ@_n=`MUh<^`3
+R8
+32
+R107
+!i10b 1
+R108
+R109
+R110
+!i113 1
+R13
+R14
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 6 memory 0 22 d?Kc?oQc[1Yh:WJk>mhF80
+l52
+L14
+VAbJiRa0mT[TI?JZ3GUn3K2
+!s100 D]MOO8[QbHSgdDI7OeC=V1
+R8
+32
+!s110 1526766285
+!i10b 1
+!s108 1526766285.000000
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Memory.vhd|
+Z112 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Memory.vhd|
+!i113 1
+R13
+R14
+w1526766259
+R32
+Z113 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Memory.vhd
+Z114 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Memory.vhd
+Amemory_1
+R16
+R3
+R4
+DEx4 work 6 memory 0 22 EibFf@D<VBPc?>9QWC0nm3
+l21
+L15
+VCZAQ5:0hTdJ:Hf=B9UP9b0
+!s100 =S>bobH?hAoRGK3L?V01W0
+R8
+32
+!s110 1526668861
+!i10b 1
+!s108 1526668861.000000
+R111
+R112
+!i113 1
+R13
+R14
+w1526668857
+R32
+R113
+R114
+Ememoryagain
+Z115 w1557867392
+R1
+R2
+R3
+R4
+R5
+R105
+R106
+l0
+L12
+VV5LW`YlZlCHAm;^mgPfdB1
+!s100 ZK<kCn`c>ZjN`K_QhVDAD2
+R8
+32
+Z116 !s110 1557867617
+!i10b 1
+Z117 !s108 1557867617.000000
+R109
+R110
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 11 memoryagain 0 22 V5LW`YlZlCHAm;^mgPfdB1
+l29
+L21
+VbKZ^@z0@Ebk`DkV3>]mXV1
+!s100 _7@gfND4Qeb0zdi<enzd83
+R8
+32
+R116
+!i10b 1
+R117
+R109
+R110
+!i113 1
+R13
+R14
+Emips
+Z118 w1557863593
+R1
+R2
+R3
+R4
+R5
+Z119 8D:/MIPS/Mips_Project/MIPS.vhd
+Z120 FD:/MIPS/Mips_Project/MIPS.vhd
+l0
+L6
+V0^FMHPTDaYLWaBdmclG]_0
+!s100 4PZQz;b=hDj1aOjz0QIAz0
+R8
+32
+Z121 !s110 1557937650
+!i10b 1
+R108
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/MIPS.vhd|
+Z123 !s107 D:/MIPS/Mips_Project/MIPS.vhd|
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 4 mips 0 22 0^FMHPTDaYLWaBdmclG]_0
+l132
+L12
+VUTcNHT>:FO7Bk2I@z3[H[2
+!s100 2:_U23V;oI:K:RePBK]RB3
+R8
+32
+R121
+!i10b 1
+R108
+R122
+R123
+!i113 1
+R13
+R14
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 4 mips 0 22 9Sg8k7aZ[QzLA?0G_PcW21
+l125
+L12
+VHSPNa=>HlTIEFD<I<X:3R2
+!s100 IQOF@nPW^:]z=eldYUbgc1
+R8
+32
+!s110 1526767657
+!i10b 1
+!s108 1526767657.000000
+R102
+R103
+!i113 1
+R13
+R14
+w1526767645
+R32
+R99
+R98
+Emux
+Z124 w1526779863
+R16
+R3
+R4
+R32
+Z125 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/mux.vhd
+Z126 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/mux.vhd
+l0
+L5
+V_ZojJ@OO5[L]6eYLf81@@0
+!s100 ZFLUSdE4Dg:mSZi@BdcO^1
+R8
+32
+R100
+!i10b 1
+R101
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/mux.vhd|
+Z128 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/mux.vhd|
+!i113 1
+R13
+R14
+Abeh
+R16
+R3
+R4
+DEx4 work 3 mux 0 22 _ZojJ@OO5[L]6eYLf81@@0
+l15
+L14
+Vd`g`@9M09@L9QE3X<jamh2
+!s100 eZO8n_`VSMD3>ib>IJ;Mi1
+R8
+32
+R100
+!i10b 1
+R101
+R127
+R128
+!i113 1
+R13
+R14
+Emux2_1_32
+Z129 w1526777903
+R16
+R3
+R4
+R5
+Z130 8D:/MIPS/Mips_Project/Mux2_1_32.vhd
+Z131 FD:/MIPS/Mips_Project/Mux2_1_32.vhd
+l0
+L5
+VW8ad8a6b`6ANCAO2<KNG90
+!s100 2zc=Q9Ja>0Sfo2eL5D6X_0
+R8
+32
+Z132 !s110 1557937651
+!i10b 1
+Z133 !s108 1557937651.000000
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/Mux2_1_32.vhd|
+Z135 !s107 D:/MIPS/Mips_Project/Mux2_1_32.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 9 mux2_1_32 0 22 W8ad8a6b`6ANCAO2<KNG90
+l13
+L12
+V6k2gjT6B=PfH2fCUzDWWL2
+!s100 l;U[kNHA5VPG5A=MVVoA`1
+R8
+32
+R132
+!i10b 1
+R133
+R134
+R135
+!i113 1
+R13
+R14
+Emux2_1_5
+Z136 w1526777906
+R16
+R3
+R4
+R5
+Z137 8D:/MIPS/Mips_Project/Mux2_1_5.vhd
+Z138 FD:/MIPS/Mips_Project/Mux2_1_5.vhd
+l0
+L5
+V]NR^zi?T`j?^m1gb`ln__3
+!s100 D?1ezQfQLnF6U;IFg3NOS0
+R8
+32
+R121
+!i10b 1
+Z139 !s108 1557937650.000000
+Z140 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/Mux2_1_5.vhd|
+Z141 !s107 D:/MIPS/Mips_Project/Mux2_1_5.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 8 mux2_1_5 0 22 ]NR^zi?T`j?^m1gb`ln__3
+l13
+L12
+VCUV5W<ioP_GR<mlB9ZSQf0
+!s100 CA@4`lg>2gTj_idb6TClg2
+R8
+32
+R121
+!i10b 1
+R139
+R140
+R141
+!i113 1
+R13
+R14
+Emux3_1_32
+Z142 w1557789234
+R16
+R3
+R4
+R5
+Z143 8D:/MIPS/Mips_Project/Mux3_1_32.vhd
+Z144 FD:/MIPS/Mips_Project/Mux3_1_32.vhd
+l0
+L5
+VgKn7UjnEY6MUYL_@MUAjG1
+!s100 9FeP6dDdDz[>`lM7b>?0R3
+R8
+32
+Z145 !s110 1557937652
+!i10b 1
+R91
+Z146 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/Mux3_1_32.vhd|
+Z147 !s107 D:/MIPS/Mips_Project/Mux3_1_32.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 9 mux3_1_32 0 22 gKn7UjnEY6MUYL_@MUAjG1
+l13
+L12
+V8NG:`lU[9P]PnP^B^4aV<3
+!s100 ]GEgTz3dkD75LWEKVUK<[0
+R8
+32
+R145
+!i10b 1
+R91
+R146
+R147
+!i113 1
+R13
+R14
+Epc
+Z148 w1557926041
+R2
+R1
+R3
+R4
+R5
+Z149 8D:/MIPS/Mips_Project/PC.vhd
+Z150 FD:/MIPS/Mips_Project/PC.vhd
+l0
+L5
+VYI0[i^i_kzzAL8ne`PefR3
+!s100 A^XjJcVA6Mcff[c>ZbdoN0
+R8
+32
+R132
+!i10b 1
+R133
+Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/PC.vhd|
+Z152 !s107 D:/MIPS/Mips_Project/PC.vhd|
+!i113 1
+R13
+R14
+Abeh
+R2
+R1
+R3
+R4
+DEx4 work 2 pc 0 22 YI0[i^i_kzzAL8ne`PefR3
+l17
+L13
+VFYcW7KkDK<5PEQ67jGN1`1
+!s100 9H^G]bh@^iGK6gn^IBCEX1
+R8
+32
+R132
+!i10b 1
+R133
+R151
+R152
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 2 pc 0 22 L?EH8eeaHBYC`YzCZFjz41
+l15
+L13
+VX4mM5YXiZY^2QgVObHSa>3
+!s100 HlKz]D4_YM3Q387D^4B6l0
+R8
+32
+!s110 1526778203
+!i10b 1
+!s108 1526778203.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/PC.vhd|
+!s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/PC.vhd|
+!i113 1
+R13
+R14
+w1526778199
+R32
+FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/PC.vhd
+8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/PC.vhd
+Ereg
+Z153 w1526680262
+R16
+R3
+R4
+R32
+Z154 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/register_file.vhd
+Z155 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/register_file.vhd
+l0
+L5
+VV>Y;MG@Ie1T^`V]bQ?H1M0
+!s100 kHdH9PO<TRHb?@]=dHkAc2
+R8
+32
+Z156 !s110 1526680272
+!i10b 1
+Z157 !s108 1526680271.000000
+Z158 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/register_file.vhd|
+Z159 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/register_file.vhd|
+!i113 1
+R13
+R14
+Areg
+R16
+R3
+R4
+DEx4 work 3 reg 0 22 V>Y;MG@Ie1T^`V]bQ?H1M0
+l17
+L13
+Vo917CR@A7^YNLHPn2OTL52
+!s100 l0?BWN[`G`5D2RDlA0EIO3
+R8
+32
+R156
+!i10b 1
+R157
+R158
+R159
+!i113 1
+R13
+R14
+Ereg_file
+w1526038364
+R16
+R3
+R4
+R32
+R154
+R155
+l0
+L4
+VAj5aklRnZO>eh@V?4AQ9z3
+!s100 :RdUI_=TZm7iY]<4:mY^C3
+R8
+32
+!s110 1526038403
+!i10b 1
+!s108 1526038403.000000
+R158
+R159
+!i113 1
+R13
+R14
+Eregister_file
+Z160 w1526766453
+R16
+R3
+R4
+R32
+R154
+R155
+l0
+L6
+VEizHB7O:MKO<3S9PeeC>92
+!s100 6HajlDR9ST?KSjcnca]]S1
+R8
+32
+Z161 !s110 1526766467
+!i10b 1
+Z162 !s108 1526766467.000000
+R158
+R159
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 13 register_file 0 22 EizHB7O:MKO<3S9PeeC>92
+l54
+L16
+V00gz7RJP>8I1[lZCbh3<W0
+!s100 9A@Tce<iCigo>iP4R=0XO1
+R8
+32
+R161
+!i10b 1
+R162
+R158
+R159
+!i113 1
+R13
+R14
+Eregisters
+Z163 w1557858780
+R16
+R3
+R4
+R5
+Z164 8D:/MIPS/Mips_Project/register_file.vhd
+Z165 FD:/MIPS/Mips_Project/register_file.vhd
+l0
+L5
+VRlkR>AXfzSaFZ>e9fFPFM1
+!s100 AZ9bd96dgY3Yj3dfIb32i3
+R8
+32
+R132
+!i10b 1
+R133
+Z166 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/register_file.vhd|
+Z167 !s107 D:/MIPS/Mips_Project/register_file.vhd|
+!i113 1
+R13
+R14
+Abeh
+R16
+R3
+R4
+DEx4 work 9 registers 0 22 RlkR>AXfzSaFZ>e9fFPFM1
+l21
+L15
+VC?i^RlLhCNMI1GbZBM88A0
+!s100 2ecbz2NjSZbkeUJo?ndh`1
+R8
+32
+R132
+!i10b 1
+R133
+R166
+R167
+!i113 1
+R13
+R14
+Eshift_register
+Z168 w1526734408
+R16
+R3
+R4
+R32
+Z169 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register.vhd
+Z170 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register.vhd
+l0
+L5
+VDSTFUG=OdP<`?jD;Bl]Nb0
+!s100 ]PGTncLc2HNA@^R?CXb6U1
+R8
+32
+Z171 !s110 1526779998
+!i10b 1
+Z172 !s108 1526779998.000000
+Z173 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register.vhd|
+Z174 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 14 shift_register 0 22 DSTFUG=OdP<`?jD;Bl]Nb0
+l16
+L13
+VK9bh`h3@1BLlGbEHRelD23
+!s100 gIV=0;iFLk^GhoV_b8VJa0
+R8
+32
+R171
+!i10b 1
+R172
+R173
+R174
+!i113 1
+R13
+R14
+Eshift_register26_28
+Z175 w1526759917
+R16
+R3
+R4
+R32
+Z176 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register26_28.vhd
+Z177 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register26_28.vhd
+l0
+L5
+Vg1P<NAhl=2dCfO19T<nzb1
+!s100 Z?jb:G3lbkNIW8K;F]Yk10
+R8
+32
+Z178 !s110 1526759922
+!i10b 1
+Z179 !s108 1526759922.000000
+Z180 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register26_28.vhd|
+Z181 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register26_28.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 19 shift_register26_28 0 22 g1P<NAhl=2dCfO19T<nzb1
+l13
+L11
+VK3@AJe]b931VL4f3iU45X1
+!s100 ??LchW5Gh`P3M9ZKMBOKZ2
+R8
+32
+R178
+!i10b 1
+R179
+R180
+R181
+!i113 1
+R13
+R14
+Eshift_register32
+Z182 w1526758315
+R16
+R3
+R4
+R32
+Z183 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register32.vhd
+Z184 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register32.vhd
+l0
+L5
+VcE6iV^kKT0G0nNPbm=4;23
+!s100 l0_WoodoRc8K7`?QToVoS1
+R8
+32
+!s110 1526758468
+!i10b 1
+Z185 !s108 1526758468.000000
+Z186 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register32.vhd|
+Z187 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/Shift_register32.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 16 shift_register32 0 22 cE6iV^kKT0G0nNPbm=4;23
+l12
+L11
+Vji]J<]C3S:1HXzQJ;6?dX1
+!s100 YA_<;;H[Yf^U<d]K]Ec4D1
+R8
+32
+!s110 1526758469
+!i10b 1
+R185
+R186
+R187
+!i113 1
+R13
+R14
+Eshifter
+Z188 w1526788617
+R16
+R3
+R4
+R5
+Z189 8D:/MIPS/Mips_Project/Shift_register.vhd
+Z190 FD:/MIPS/Mips_Project/Shift_register.vhd
+l0
+L5
+VP[j4giEeBJf;Y=iLXV0PT0
+!s100 o>j`DZ23QIT66UM3Eaz?13
+R8
+32
+R145
+!i10b 1
+R133
+Z191 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/Shift_register.vhd|
+Z192 !s107 D:/MIPS/Mips_Project/Shift_register.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 7 shifter 0 22 P[j4giEeBJf;Y=iLXV0PT0
+l16
+L13
+V1kRNLQ5hN_gUOLQaAM@@]2
+!s100 PAG=MgTXC98EbD?[dGX1?0
+R8
+32
+R145
+!i10b 1
+R133
+R191
+R192
+!i113 1
+R13
+R14
+Esign_extend
+Z193 w1526779985
+R16
+R3
+R4
+R5
+Z194 8D:/MIPS/Mips_Project/SignExtend.vhd
+Z195 FD:/MIPS/Mips_Project/SignExtend.vhd
+l0
+L5
+VMkRkZH>gMEVhj>B>PYWgO0
+!s100 5BC75LE]3W[Pbn:A<W8[l1
+R8
+32
+R145
+!i10b 1
+R91
+Z196 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/MIPS/Mips_Project/SignExtend.vhd|
+Z197 !s107 D:/MIPS/Mips_Project/SignExtend.vhd|
+!i113 1
+R13
+R14
+Abeh
+R16
+R3
+R4
+DEx4 work 11 sign_extend 0 22 MkRkZH>gMEVhj>B>PYWgO0
+l13
+L12
+VVVYm;m4cXbMah14B[9TN@3
+!s100 T[A5fF^[Y8oUkn7X>Cf0k1
+R8
+32
+R145
+!i10b 1
+R91
+R196
+R197
+!i113 1
+R13
+R14
+Esignextend
+Z198 w1526778886
+R16
+R3
+R4
+R32
+Z199 8E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/SignExtend.vhd
+Z200 FE:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/SignExtend.vhd
+l0
+L5
+V_[faF4BHod6GO>D4@8jo03
+!s100 a8d@d[6cQfkl9nja?24QE3
+R8
+32
+Z201 !s110 1526778889
+!i10b 1
+Z202 !s108 1526778889.000000
+Z203 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/SignExtend.vhd|
+Z204 !s107 E:/Ahmed AsA/F of Engineering Lec&Sec/6th Semster/Computer Organization/Project/SignExtend.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R16
+R3
+R4
+DEx4 work 10 signextend 0 22 _[faF4BHod6GO>D4@8jo03
+l15
+L10
+VJVn4B38l6U_?1Fo8;gnh92
+!s100 :go9Achf`@PHKNK4HbX=20
+R8
+32
+R201
+!i10b 1
+R202
+R203
+R204
+!i113 1
+R13
+R14
